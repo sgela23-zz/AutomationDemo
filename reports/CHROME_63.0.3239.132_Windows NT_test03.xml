@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="test03"
+    errors="0" failures="0" hostname="" id="" package="test03" skipped="0"
+    tests="1" time="52.95" timestamp="Tue, 23 Jan 2018 00:39:06 GMT">
+  
+    <testcase name="Register to Road Partner" classname="test03" time="52.95" assertions="14">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

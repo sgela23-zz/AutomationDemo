@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="test03"
+    errors="1" failures="0" hostname="" id="" package="test03" skipped="0"
+    tests="1" time="0.01600" timestamp="Mon, 22 Jan 2018 22:11:58 GMT">
+  
+    <testcase name="Test03" classname="test03" time="0.01600" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Test03 / Test03]:
+
+  Error: selectOwner was not found in &#34;PartnersPage&#34;. Available elements: roadPartnersTitle,iFrame,firstName,lastName,emailAddress,phoneNumber,company,jobTitle,companyLocation,learnMore
+    at getElement (C:\Users\nopassword\Desktop\SweatWorks\js-web\node_modules\nightwatch\lib\page-object\command-wrapper.js:13:13)
+    at Page.click (C:\Users\nopassword\Desktop\SweatWorks\js-web\node_modules\nightwatch\lib\page-object\command-wrapper.js:81:32)
+    at Page.fillCompanyLoc (C:\Users\nopassword\Desktop\SweatWorks\js-web\pageobjects\PartnersPage.js:94:18)
+    at Object.Test03 (C:\Users\nopassword\Desktop\SweatWorks\js-web\tests\test03.js:34:14)
+    at Module.call (C:\Users\nopassword\Desktop\SweatWorks\js-web\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\nopassword\Desktop\SweatWorks\js-web\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\nopassword\Desktop\SweatWorks\js-web\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\nopassword\Desktop\SweatWorks\js-web\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\nopassword\Desktop\SweatWorks\js-web\node_modules\q\q.js:796:13)
+    at C:\Users\nopassword\Desktop\SweatWorks\js-web\node_modules\q\q.js:556:49
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

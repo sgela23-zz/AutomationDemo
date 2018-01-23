@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="test02"
+    errors="0" failures="1" hostname="" id="" package="test02" skipped="0"
+    tests="1" time="59.11" timestamp="Tue, 23 Jan 2018 00:36:05 GMT">
+  
+    <testcase name="Create Account" classname="test02" time="59.11" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;.tab-pane.loginPageContainer.active.loginOnly &gt; * .form-group:nth-of-type(1) &gt; div &gt; div &gt; input&gt; to be present for 10000 milliseconds.">    at Page.fillEmailInput (C:\Users\nopassword\Desktop\SweatWorks\js-web\pageobjects\LoginPage.js:71:18)
+    at Object.Create Account (C:\Users\nopassword\Desktop\SweatWorks\js-web\tests\test02.js:22:12)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

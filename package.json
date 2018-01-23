@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "nightwatch.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "nightwatch": "^0.9.19"
+  },
+  "devDependencies": {
+    "selenium-server": "^3.8.1"
+  },
+  "scripts": {},
+  "author": "Santiago Gelabert",
+  "license": "",
+  "description": "nightwatch template for projects"
+}

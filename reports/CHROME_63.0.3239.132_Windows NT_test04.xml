@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="test04"
+    errors="0" failures="0" hostname="" id="" package="test04" skipped="0"
+    tests="1" time="52.91" timestamp="Tue, 23 Jan 2018 00:39:06 GMT">
+  
+    <testcase name="Register to Trail Partner" classname="test04" time="52.91" assertions="14">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
